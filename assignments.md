@@ -39,7 +39,7 @@ When considering human-environment interactions, we will emphasize the importanc
 
 The report and model are due by [time], and we will have a discussion lab about your results on Wednesday Mar 8.
 
-This project is worth 20 points. A detailed breakdown is available in the grading rubric.
+This project is worth 22 points. A detailed breakdown is available in the grading rubric.
 
 ## Policy Memo Project
 The capstone project for this course is a policy memo on an environmental issue broadly defined to be related to this course. The topic will be decided in consulation with the instructors. 
