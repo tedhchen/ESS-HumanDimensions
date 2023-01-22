@@ -8,7 +8,7 @@ description: Outline of the code of conduct for this course.
 # Code of Conduct
 As stated in the [Course Expectations]({{ site.baseurl }}/about/#course-expectations), all participants of this course, including instructors, students, and guest lecturers, should strive to make this course a respectful space that is conducive for inclusive learning. To ensure this goal is met, we ask all participants to follow this Code of Conduct. 
 
-This Code of Conduct is (lightly) adapted from the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by [The Carpentries](https://docs.carpentries.org/index.html), originally licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The Online Classroom-specific Addendum is developed by participants of EVPP 632 (2022).
+This Code of Conduct is (lightly) adapted from the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) developed by [The Carpentries](https://docs.carpentries.org/index.html), originally licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Expected Behavior
 All course participants are expected to show respect and courtesy to others. All interactions should be professional regardless of platform, including the physical or online classroom, the course slack, and all other course-related communications. To foster a positive, inclusive, and professional learning environment, we encourage the following kinds of behaviors in all course related communications:
@@ -19,7 +19,7 @@ All course participants are expected to show respect and courtesy to others. All
 - Show courtesy and respect towards other community members
 
 ## Unacceptable Behavior
-Examples of unacceptable behavior by all course participants on all course platforms (i.e. physical or online classroom, course slack, and all other course-related communications):
+Examples of unacceptable behavior by all course participants on all course platforms (i.e. classroom and all course-related communications):
 - Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
 - Causing someone to fear for their safety, such as through stalking, following, or intimidation
 - Violent threats or language directed against another person
@@ -33,10 +33,6 @@ Examples of unacceptable behavior by all course participants on all course platf
 - Incitement to violence, suicide, or self-harm
 - Continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 - Publication of private communication without consent
-
-## Online Classroom-specific Addendum
-- During discussions, all participants except for the moderator (i.e. the instructor and designated students) will queue in the chat for their turn to speak
-- Cameras are not required to be on
 
 ## Consequences of Unacceptable Behavior
 Course participants who are asked to stop any inappropriate behavior are expected to comply immediately. If a participant engages in behavior that violates this code of conduct, the instructors may warn the offender or ask them to leave. Continued noncooperation will be addressed via the appropriate university channels.
