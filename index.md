@@ -9,7 +9,7 @@ seo:
 
 # Environmental Social Science (Human Dimensions)
 {: .mb-2 }
-Course website for EVPP 336 at George Mason University (Spring 2023).
+Course site for EVPP 336 at George Mason University (Spring 2023).
 {: .fs-6 .fw-300 }
 
 ## About
@@ -24,10 +24,13 @@ This is a undergraduate-level course on environmental social science.
 **Meeting Times:** Mon & Wed. 1:30-2:45pm
 
 **Meeting Locations:** 
+Planetary Hall 126
 
 **Office Hours:** 
-- Wed. 11:00am-12:30pm at David King 3036
+- Wed. 10:30am-12:00pm at David King 3036
+- 
 - By appointment
 
-**Instructor:**
+**Instructors:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
+{{ site.staffers | where: 'name', 'Meaghan Caruso' }}
