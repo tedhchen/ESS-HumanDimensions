@@ -14,8 +14,7 @@ Course site for EVPP 336 at George Mason University (Spring 2023).
 
 ## About
 
-This is a undergraduate-level course on environmental social science.
-
+This is a undergraduate-level course on human-environment interactions with a focus on environmental governance and policy-making. In this course, we will look at how humans shape and are in turn shaped by the environment. In approaching this topic, we will emphasize taking a systems approach to understanding human-environment interactions as complex socioecological systems. The course is organized around hands-on learning, with considerable time and effort put toward individual and team-based production of policy and community engagement projects.
 
 [Click here for a detailed description of the course.]({{ site.baseurl }}{% link about.md %})
 
