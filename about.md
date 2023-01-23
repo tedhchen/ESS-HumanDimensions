@@ -43,7 +43,7 @@ Various class activities such as in-class exercises and invited speakers will su
 ## Course Expectations
 
 ### Course Organization
-This course is held in-person twice a week on Mondays and Wednesdays. Generally speaking, Mondays will be lecture-based while Wednesdays will be lab-based (e.g. exercises and discussions), but we will move things around to accomodate potential guest speakers and other kinds outside engagement. 
+This course is held in-person twice a week on Mondays and Wednesdays. Generally speaking, Mondays will be lecture-based while Wednesdays will be lab-based (e.g. exercises and discussions), but we will move things around to accomodate potential guest speakers and other kinds of outside engagement. 
 
 ### Students can expect from the instructors
 -  Ted is trained in political science, and he has additional specializations in environmental social science and network science. Meaghan is trained in education, and is currently pursuing a graduate degree in environmental social science. How we approach the class topics is naturally influenced by our backgrounds, but we will strive to present a wide variety of materials that shows the breadth of environmental social science research.
