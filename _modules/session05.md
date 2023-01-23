@@ -3,9 +3,9 @@ title: Week 5
 type: outline
 ---
 
-Topics
-: - Complexity and systems-thinking
-  - Approaches to systems modeling
+Topic
+: Complexity and systems-thinking
+: Learning how to do systems modeling
 
 Readings
 : Ostrom, E. 2009. ["A General Framework for Analyzing Sustainability of Social-Ecological Systems."](https://doi.org/10.1126/science.1172133){:target="_blank"} _Science_ 325(5939): 419-422.
@@ -16,7 +16,7 @@ Readings
 
 Feb 20
 : **Lecture**{: .label .label-lecture } Introduction to complexity and systems-thinking
-: **Questions 3**{: .label .label-hw } Reading questions
+: **Questions 3**{: .label .label-hw } Reading questions due
 
 Feb 22
 : **Lecture**{: .label .label-lecture } Systems-thinking modeling tutorial

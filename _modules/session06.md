@@ -3,8 +3,8 @@ title: Week 6
 type: outline
 ---
 
-Topics
-: - Environmental Governance and Politics
+Topic
+: Environmental governance, politics, and the policy process
 
 Readings
 : Dietz, T. et al. 2003. ["The struggle to govern the commons."](https://doi.org/10.1126/science.1091015){:target="_blank"} _Science_ 302(5652): 1907-1912.
@@ -13,7 +13,7 @@ Readings
 
 Feb 27
 : **Lecture**{: .label .label-lecture } The environmental policy process
-: **Questions 4**{: .label .label-hw } Reading questions
+: **Questions 4**{: .label .label-hw } Reading questions due
 
 Mar 1
 : **In-class Exercise**{: .label .label-lab } Systems modeling lab

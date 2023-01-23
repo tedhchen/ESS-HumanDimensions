@@ -3,9 +3,8 @@ title: Week 2
 type: outline
 ---
 
-Topics
-: - Humans and nature
-  - Socioecological Systems
+Topic
+: Humans-environment interactions as socioecological systems
 
 Readings
 : Scott, J.C. 1996. ["State Simplifications: Nature, Space, and People,"](https://doi.org/10.18574/nyu/9780814788844.003.0007){:target="_blank"} in Shapiro, I, Hardin, R. eds., _Political Order_, pp. 42-85. NYU Press.
@@ -16,7 +15,7 @@ Readings
 
 Jan 30
 : **Lecture**{: .label .label-lecture } Overview of human-environment interactions through a systems lens
-: **Questions 1**{: .label .label-hw } Reading questions
+: **Questions 1**{: .label .label-hw } Reading questions due
 
 Feb 1
 : **Discussion 1**{: .label .label-disc } Human-environment interactions
