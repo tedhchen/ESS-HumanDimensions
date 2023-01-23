@@ -20,15 +20,14 @@ This is a undergraduate-level course on human-environment interactions with a fo
 
 ## Basics
 
-**Meeting Times:** Mon & Wed. 1:30-2:45pm
+**Meeting Times:** Mon & Wed, 1:30-2:45pm
 
 **Meeting Locations:** 
 Planetary Hall 126
 
 **Office Hours:** 
-- Wed. 10:30am-12:00pm at David King 3036
-- 
-- By appointment
+- TC: David King 3036, Tue 10:30am-12:00pm; and by appointment
+- MC: Online by appointment
 
 **Instructors:**
 {{ site.staffers | where: 'name', 'Ted Hsuan Yun Chen' }}
