@@ -15,10 +15,10 @@ description: Listing of course modules and topics.
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2b7s{text-align:right;vertical-align:bottom}
+.tg .tg-2ij7{background-color:#EFEFEF;text-align:center;vertical-align:bottom}
 .tg .tg-bxmt{background-color:#EFEFEF;text-align:left;vertical-align:bottom}
 .tg .tg-x2c0{background-color:#FCE5CD;text-align:left;vertical-align:bottom}
 .tg .tg-uhwn{background-color:#C9DAF8;text-align:left;vertical-align:bottom}
-.tg .tg-g6d8{background-color:#EFEFEF;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-7zrl{text-align:left;vertical-align:bottom}
 .tg .tg-0qou{background-color:#D9EAD3;text-align:left;vertical-align:bottom}
 .tg .tg-j2xz{background-color:#D9D2E9;text-align:left;vertical-align:bottom}
@@ -28,9 +28,9 @@ description: Listing of course modules and topics.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-g6d8"><span style="font-weight:bold;background-color:#EFEFEF">Week</span></th>
-    <th class="tg-g6d8"><span style="font-weight:bold;background-color:#EFEFEF">Monday</span></th>
-    <th class="tg-g6d8"><span style="font-weight:bold;background-color:#EFEFEF">Wednesday</span></th>
+    <th class="tg-2ij7"><span style="background-color:#EFEFEF">Week</span></th>
+    <th class="tg-2ij7"><span style="background-color:#EFEFEF">Monday</span></th>
+    <th class="tg-2ij7"><span style="background-color:#EFEFEF">Wednesday</span></th>
   </tr>
 </thead>
 <tbody>
@@ -81,7 +81,7 @@ description: Listing of course modules and topics.
   <tr>
     <td class="tg-2b7s">9</td>
     <td class="tg-7zrl">Global environmental governance*</td>
-    <td class="tg-7zrl">Guest lecture: Global environmental politics</td>
+    <td class="tg-7zrl">Guest lecture</td>
   </tr>
   <tr>
     <td class="tg-2b7s">10</td>
@@ -90,7 +90,7 @@ description: Listing of course modules and topics.
   </tr>
   <tr>
     <td class="tg-2b7s">11</td>
-    <td class="tg-7zrl">Technology's role in human-environment interactions*</td>
+    <td class="tg-7zrl">Technology and human-environment interactions*</td>
     <td class="tg-e0fi"><span style="background-color:#FFE599">Policy memo demonstration</span></td>
   </tr>
   <tr>
