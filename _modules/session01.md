@@ -4,7 +4,7 @@ type: outline
 ---
 
 Topic
-: Introductions, course overview and expectations
+: Introductions, course overview, and expectations
 
 Readings
 : Watts, D. 2017. ["Should social science be more solution-oriented?"](https://doi.org/10.1038/s41562-016-0015){:target="_blank"} _Nature Human Behaviour_ 1: 0015.

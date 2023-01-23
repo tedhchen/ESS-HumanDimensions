@@ -7,7 +7,7 @@ Topics
 : Natural resources and human conflict, and the impact of conflict on environmental degradation
 
 Readings
-:  Readings TBD.
+:  Readings TBD
 
 Apr 24
 : **Lecture**{: .label .label-lecture } Human conflicts and the environment

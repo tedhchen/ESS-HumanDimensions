@@ -14,4 +14,4 @@ Apr 3
 : **Questions 8**{: .label .label-hw } Reading questions due
 
 Apr 5
-: **Discussion 4**{: .label .label-disc } Topic TBD.
+: **Discussion 4**{: .label .label-disc } Topic TBD

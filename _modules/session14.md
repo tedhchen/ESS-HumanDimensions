@@ -4,7 +4,7 @@ type: outline
 ---
 
 Overview
-: - Policy memo project week
+: Policy memo presentation week
 
 May 1
 : **Presentations**{: .label .label-present } Policy memo presentations
