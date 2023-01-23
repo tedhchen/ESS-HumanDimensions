@@ -6,5 +6,3 @@ type: outline
 Overview
 : - 
 
-Readings
-:  (){:target="_blank"}

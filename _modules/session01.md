@@ -11,8 +11,8 @@ Readings
 
   Editors. 2020. ["Imagine a world without hunger, then make it happen with systems thinking."](https://doi.org/10.1038/d41586-020-00086-5){:target="_blank"} _Nature_ 557, 293-294.
 
-January 23
+Jan 23
 : 
 
-January 25
+Jan 25
 : 
