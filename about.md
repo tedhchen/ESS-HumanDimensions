@@ -18,9 +18,7 @@ description: >-
 ---
 
 ## Description
-
-
-The course is organized around hands-on learning, with the goal that by the end of the course, students will have experienced 
+This is a course about how humans shape and are in turn shaped by the environment. We will primarily focus on the environmental governance, politics, and policy-making side of human-environment interactions. In approaching this topic, we will emphasize taking a systems approach to understanding human-environment interactions as complex socioecological systems. The course is organized around hands-on learning, with considerable time and effort put toward individual and team-based production of policy and community engagement projects.
 
 ### Target Learning Outcomes
 At the end of this course, students will:
