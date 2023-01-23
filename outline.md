@@ -6,6 +6,7 @@ description: Listing of course modules and topics.
 ---
 
 # Course Outline
+The course outline is subject to change as we try to accomodate potential guest speakers and other kinds of outside engagement. Changes to due dates are unlikely, but in the event they occur, students will be given ample notice.
 
 ## Overview
 <style type="text/css">
