@@ -139,7 +139,7 @@ Here is how course scores correspond to letter grades. Your total points will be
     <td class="tg-73oq"></td>
     <td class="tg-73oq">A</td>
     <td class="tg-3z1b">[93,</td>
-    <td class="tg-0lax">97]</td>
+    <td class="tg-0lax">97)</td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
