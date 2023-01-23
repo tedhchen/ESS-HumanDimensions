@@ -30,14 +30,14 @@ Either by yourself or with a partner, you will identify a place on Mason's Fairf
  
 Your map entries are due by [time]. During one class in week 4, you will walk your classmates to the location where the interaction occurs and present your findings.
 
-This project is worth 12 points. A detailed breakdown is available in the grading rubric.
+This project is worth 15 points. A detailed breakdown is available in the grading rubric.
 
 ## Systems Modeling Report
 When considering human-environment interactions, we will emphasize the importance of doing so through a _systems_ lens, a concept we will focus on during weeks 5-7. To further familiarize you with this concept, you will analyze a complex policy outcome provided by the instructors using a combination of a short written report and a [LOOPY](https://ncase.me/loopy/){:target="_blank"} model. 
 
 The report and model are due by [time], and we will have a discussion lab about your results on Wednesday Mar 8.
 
-This project is worth 22 points. A detailed breakdown is available in the grading rubric.
+This project is worth 20 points. A detailed breakdown is available in the grading rubric.
 
 ## Policy Memo Project
 The capstone project for this course is a policy memo on an environmental issue broadly defined to be related to this course. The topic will be decided in consulation with the instructors. 
