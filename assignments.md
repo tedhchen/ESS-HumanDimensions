@@ -21,21 +21,21 @@ There are two components to participation points worth a total of 25 points.
 - For the policy memo project (see below), you will be given an effort score by your group members. This is worth up to 5 points. Only effort matters to grading, and the instructors will review all peer scores.
 
 ## Reading Questions
-Short reading questions will be assigned for weeks 2, 3, and 5-12. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Monday. Each week's questions will be worth 1.5 points for a total of 15 points.
+Short reading questions will be assigned for weeks 2, 3, and 5-12. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 8am on Monday. Each week's questions will be worth 1.5 points for a total of 15 points.
 
 ## Mapping Mason Project
 As a class, we will create an online map of how and where Mason students, faculty, and staff interact with their environment. This includes both the things that we can see (e.g. recycling and waste) and aspects that can be less visibly apparent (e.g. air and water pollution).
 
 Either by yourself or with a partner, you will identify a place on Mason's Fairfax campus where people have a direct or indirect interaction with their environment. The interaction can either be positive or negative. In a short summary, you will identify the social reasons the interaction occurs and the human and environmental consequences.
  
-Your map entries are due by [time]. During one class in week 4, you will walk your classmates to the location where the interaction occurs and present your findings.
+Your map entries are due before 8am on Feb 13. During one class in week 4, you will walk your classmates to the location where the interaction occurs and present your findings.
 
 This project is worth 15 points. A detailed breakdown is available in the grading rubric.
 
 ## Systems Modeling Report
 When considering human-environment interactions, we will emphasize the importance of doing so through a _systems_ lens, a concept we will focus on during weeks 5-7. To further familiarize you with this concept, you will analyze a complex policy outcome provided by the instructors using a combination of a short written report and a [LOOPY](https://ncase.me/loopy/){:target="_blank"} model. 
 
-The report and model are due by [time], and we will have a discussion lab about your results on Wednesday Mar 8.
+We will have a discussion lab about your results on Wednesday Mar 8. The report and model are due before 8am on Mar 8.
 
 This project is worth 20 points. A detailed breakdown is available in the grading rubric.
 
