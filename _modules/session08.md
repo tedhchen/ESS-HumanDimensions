@@ -11,7 +11,9 @@ Readings
 
 : Gilio-Whitaker, D. 2019. _As long as grass grows: The Indigenous fight for environmental justice, from colonization to Standing Rock_. Beacon Press. Chapter 1.
 
-: Harlan S.L. et al. 2015. in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
+: Harlan S.L. et al. 2015. "Climate Justice and Inequality," in Dunlap, R.E., Brulle, R.J. eds., _Climate Change and Society: Sociological Perspectives_. Oxford University Press. Chapter 5.
+
+: Lubben, A. et al. 2022. ["Trapped in harm’s way as climate disasters mount."](https://publicintegrity.org/podcasts/integrity-out-loud/disasters-mount-climate-relocation-assistance/){:target="_blank"} Center for Public Integrity.
 
 Mar 20
 : **Lecture**{: .label .label-lecture } Public attitudes toward environmental protection and climate mitigation
