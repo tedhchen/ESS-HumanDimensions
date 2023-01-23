@@ -17,13 +17,11 @@ description: Outline of course project resources.
 ## Class Participation
 There are two components to participation points worth a total of 25 points.
 
-- In weeks 2, 7, 8, and 10, you will receive points for participating in the Wednesday discussion labs. Each session is worth 4 points for a total of 16.
-- For the policy memo project (see below), you will be given an effort score by your group members. This is worth up to 9 points. Only effort matters to grading, and the instructors will review all peer scores.
+- In weeks 2, 7, 8, and 10, you will receive points for participating in the Wednesday discussion labs (i.e. submitting discussion questions before the session or speaking during the session). Each session is worth 5 points for a total of 20.
+- For the policy memo project (see below), you will be given an effort score by your group members. This is worth up to 5 points. Only effort matters to grading, and the instructors will review all peer scores.
 
 ## Reading Questions
-Short reading questions will be assigned for weeks 2, 3, and 6-12. These will be basic knowledge questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Monday.
-
-Each week's questions will be worth 2 points for a total of 18 points. This is designed so you can skip one week's questions and still receive 100 points in the course.
+Short reading questions will be assigned for weeks 2, 3, and 5-12. These will be basic questions (i.e. if you do the readings you will know the answers). Each week's questions will be assigned on Thursday the week prior and are due before 10am on Monday. Each week's questions will be worth 1.5 points for a total of 15 points.
 
 ## Mapping Mason Project
 As a class, we will create an online map of how and where Mason students, faculty, and staff interact with their environment. This includes both the things that we can see (e.g. recycling and waste) and aspects that can be less visibly apparent (e.g. air and water pollution).

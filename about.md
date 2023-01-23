@@ -86,17 +86,17 @@ Including opportunities for "bonus" points to be determined at a later date, stu
   <tr>
     <td class="tg-0pky">Reading questions</td>
     <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow">18</td>
+    <td class="tg-c3ow">15</td>
   </tr>
   <tr>
     <td class="tg-0pky">Mapping Mason project</td>
     <td class="tg-c3ow">Week 4</td>
-    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">15</td>
   </tr>
   <tr>
     <td class="tg-0pky">Systems modeling report</td>
     <td class="tg-c3ow">Week 7</td>
-    <td class="tg-c3ow">22</td>
+    <td class="tg-c3ow">20</td>
   </tr>
   <tr>
     <td class="tg-0pky">Policy Memos</td>
@@ -106,7 +106,7 @@ Including opportunities for "bonus" points to be determined at a later date, stu
   <tr>
     <td class="tg-0pky">"Bonus" points</td>
     <td class="tg-c3ow">TBD</td>
-    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">5</td>
   </tr>
 </tbody>
 </table>
