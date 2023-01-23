@@ -30,10 +30,20 @@ At the end of this course, students will:
 - have produced a policy memo in an environmental issue area
 - have engaged with community members from outside of our classroom
 
+### Mason Impact (Impact + Civic Engagement and Community Learning, CECiL)
+This course takes a problem-based learning approach. As we will see during this semester, human development is integrally linked to our interactions with the environment. Societal change is almost always coupled with both intentional and unintentional transformations in global ecosystems. Efforts to promote sustainable development (i.e. bringing about positive transformations or mitigating negative ones) require us to be able to identify the different components of complex socioecological systems and the intricate ways they interact with one another. 
+
+During the semester you will engage in projects that will require thinking through the lens of socioecological systems in order to diagnose human-environment interactions at various scales. For each project, you will prepare a public-facing document on the topic, analyzing possible approaches, and present it. You will be required to base your research on citations that are of sufficient quality that they could be used by a decision-maker in credibly making the claim to others. 
+
+Various class activities such as in-class exercises and invited speakers will support you as you research and write the assignments. Through these course components, the following learning outcomes will be met:
+-  Understanding how to conduct research and use knowledge to address environmental issues of societal importance;
+-  Exploring different perspectives of stakeholders and being able to relate how their viewpoints affect social responses to environmental issues;
+-  Engaging in inquiry about topics of importance to environmental protection in a series of increasingly challenging assignments.
+
 ## Course Expectations
 
 ### Course Organization
-This course is held in-person twice a week on Mondays and Wednesdays. Generally speaking, Mondays will be lecture-based while Wednesdays will be lab-based, but we will move things around to accomodate potential guest speakers and other kinds outside engagement. 
+This course is held in-person twice a week on Mondays and Wednesdays. Generally speaking, Mondays will be lecture-based while Wednesdays will be lab-based (e.g. exercises and discussions), but we will move things around to accomodate potential guest speakers and other kinds outside engagement. 
 
 ### Students can expect from the instructors
 -  Ted is trained in political science, and he has additional specializations in environmental social science and network science. Meaghan is trained in education, and is currently pursuing a graduate degree in environmental social science. How we approach the class topics is naturally influenced by our backgrounds, but we will strive to present a wide variety of materials that shows the breadth of environmental social science research.
