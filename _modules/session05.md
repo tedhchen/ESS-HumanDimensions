@@ -14,6 +14,8 @@ Readings
 
 : Meadows, D. 2009. _Thinking in Systems._ Earthscan. Introduction and Chapter 1. 
 
+: **Recommended**{: .label .label-lecture } Hofstadter, D.R. 1981. "Prelude... Ant Fugue," in Hofstadter, D.R., Dennett, D.C. eds. _The Mind's I: Fantasies and Relfections on Self and Soul_, Ch. 11, Basic Books.
+
 Feb 20
 : **Lecture**{: .label .label-lecture } Introduction to complexity and systems-thinking
 : **Questions 3**{: .label .label-hw } Reading questions due
