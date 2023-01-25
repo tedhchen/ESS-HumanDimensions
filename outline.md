@@ -48,11 +48,11 @@ The course outline is subject to change as we try to accomodate potential guest 
   <tr>
     <td class="tg-2b7s">3</td>
     <td class="tg-0qou"><span style="background-color:#D9EAD3">Mapping Mason working session</span></td>
-    <td class="tg-x2c0"><span style="background-color:#FCE5CD">Topic focus: Natural hazards*</span></td>
+	<td class="tg-7zrl">University Sustainability</td>
   </tr>
   <tr>
     <td class="tg-2b7s">4</td>
-    <td class="tg-0qou"><span style="background-color:#D9EAD3">Mapping Mason presentations</span></td>
+    <td class="tg-x2c0"><span style="background-color:#FCE5CD">Topic focus: Natural hazards*</span></td>
     <td class="tg-0qou"><span style="background-color:#D9EAD3">Mapping Mason presentations</span></td>
   </tr>
   <tr>

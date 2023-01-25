@@ -16,4 +16,4 @@ Feb 6
 : **Questions 2**{: .label .label-hw } Reading questions due
 
 Feb 8
-: **Lecture**{: .label .label-lecture } Socioecological dimensions of disaster governance
+: **Lecture**{: .label .label-lecture } Guest lecture from University Sustainability

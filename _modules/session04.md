@@ -7,7 +7,7 @@ Topic
 : Mapping Mason presentation week
 
 Feb 13
-: **Presentations**{: .label .label-present } Mapping Mason results presentations
+: **Lecture**{: .label .label-lecture } Socioecological dimensions of disaster governance
 : **Project 1**{: .label .label-hw } Mapping Mason entries due
 
 Feb 15
